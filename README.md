@@ -1,4 +1,7 @@
 This code is for the work "Complex Dual-Tree Pyramid Scattering Transformer"
+
+For detailed environment configuration requirements, please look at the requirement.txt file.
+
 Detailed data preprocessing, hyperparameter selection, and training Settings are as follows：
 
 1. Image Classification Task
